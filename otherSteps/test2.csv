@@ -1,0 +1,3 @@
+ user,password,tag,product,color,size,lastName,firstName,address,phoneNumber,payementAddress,deliveryAddress
+robot@gmail.com,password,Electronique,Ampoule,1,1,Robert,Pierre,15 avenue rue,66993654,08 avenue perdue,13 avenue perdue
+robot@gmail.com,password,Electromenager,Ampoule,FALSE,FALSE,Peace,Yo,ztrain zet,62387196,13 rue perdue,08 avenue perdue
